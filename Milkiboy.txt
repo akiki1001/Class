@@ -1,0 +1,4 @@
+LIBRARY SYSTEM
+
+PROJECT DESCRIPTION: Worked with a team of Three to design and develop a library application capable of handling book Inventory, library members registration, checkout record inventory, and so on.
+TECHNOLOGIES USED (in order): Java, JavaFX, MySQL, GIT.
